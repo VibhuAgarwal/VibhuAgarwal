@@ -6,10 +6,7 @@
 
 I am a passionate B.Tech CS student at GLA University at Mathura, driven by a curiosity for technology and a love for coding. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-
-<h1 align="center">
 ![<VibhuAgarwal>'s Stats](https://github-readme-stats.vercel.app/api?username=VibhuAgarwal&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-</h1>
 
 
 ## 🚀 About Me
