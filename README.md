@@ -1,12 +1,16 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+VIBHOR+AGARWAL..;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+VIBHOR+AGARWAL..!;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 I am a passionate B.Tech CS student at GLA University at Mathura, driven by a curiosity for technology and a love for coding. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
+
+<h1 align="center">
 ![<VibhuAgarwal>'s Stats](https://github-readme-stats.vercel.app/api?username=VibhuAgarwal&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+</h1>
+
 
 ## 🚀 About Me
 
