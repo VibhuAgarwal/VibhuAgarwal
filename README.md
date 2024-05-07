@@ -28,7 +28,7 @@ I am a passionate B.Tech CS student at GLA University at Mathura, driven by a cu
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
   - Building server-side applications with NextJS, a powerful React framework.
   - Diving into MongoDB for efficient and scalable database management.
-  - 
+    
 
  ## 🏆 Achievements
 
