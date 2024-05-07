@@ -9,10 +9,7 @@ I am a passionate B.Tech CS student at GLA University at Mathura, driven by a cu
 ![<VibhuAgarwal>'s Stats](https://github-readme-stats.vercel.app/api?username=VibhuAgarwal&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vibhuagarwal&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Vibhor Agarwal's GitHub status" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vibhuagarwal8&theme=algolia" alt="Vibhor Agarwal" />
+  <img align="center" src="https://github-readme-stats.netlify.app/api?username=Vibhuagarwal&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Vibhor Agarwal's GitHub status" />
 </p>
 
 
