@@ -12,13 +12,8 @@ I am a passionate B.Tech CS student at GLA University at Mathura, driven by a cu
 
 
 ## Tech Stack
-- ReactJS
-- NextJS
-- Javascript
-- Tailwind CSS
-- NodeJS (Beginner)
-- ExpressJS (Beginner)
-- SQL (Beginner)
+[![My Skills](https://skillicons.dev/icons?i=reactjs,nextjs,nodejs,expressjs,MongoDB,js,html,css)](https://skillicons.dev)
+
 
 ## 🌱 Currently Exploring
 
