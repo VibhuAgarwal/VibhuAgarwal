@@ -1,10 +1,8 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ABU+SAID....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Vibhor+Agarwal....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-
-# Hi, I'm Vibhor Agarwal! 👋
 
 I am a passionate B.Tech CS student at GLA University at Mathura, driven by a curiosity for technology and a love for coding. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
