@@ -11,9 +11,8 @@ I am a passionate B.Tech CS student at GLA University at Mathura, driven by a cu
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working as System Engineer at TCS.
+- 🔭 I'm currently working as Software developer at TCS.
 - 🔭 Worked as Intern at Info Edge
-- 🕹️ Worked as tester at Mayhem Studios (Gaming)
 
 
 ## Tech Stack
