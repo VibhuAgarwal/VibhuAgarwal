@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hello,+There!+👋;This+is+VIBHOR+AGARWAL..!;Nice+to+meet+you!)](https://git.io/typing-svg)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+VIBHOR+AGARWAL..!;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 I am a passionate B.Tech CS student at GLA University at Mathura, driven by a curiosity for technology and a love for coding. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
