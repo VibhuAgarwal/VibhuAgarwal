@@ -11,8 +11,8 @@ I am a passionate B.Tech CS student at GLA University at Mathura, driven by a cu
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working as Software developer at TCS.
-- 🔭 Worked as Intern at Info Edge
+- 🔭 I'm currently working as a Software developer at TCS.
+- 🔭 Worked as an Intern at Info Edge
 
 
 ## Tech Stack
@@ -37,16 +37,13 @@ I am a passionate B.Tech CS student at GLA University at Mathura, driven by a cu
 
 ## 📬 Get in Touch
 
-[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
-[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
+[![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white (LinkedIn))][4]
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white (Instagram))][2]
 
 [4]: https://www.linkedin.com/in/vibhor-agarwal12
 [2]: https://www.instagram.com/vibhragrwl
 
-
-
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
 <!--
 
 Here are some ideas to get you started:
