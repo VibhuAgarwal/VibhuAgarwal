@@ -41,7 +41,7 @@ I am a passionate B.Tech CS student at GLA University at Mathura, driven by a cu
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white (Instagram))][2]
 
 [4]: https://www.linkedin.com/in/vibhor-agarwal12
-[2]: https://www.instagram.com/vibhragrwl
+[2]: https://www.instagram.com/vibhoragrwl
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 <!--
