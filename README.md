@@ -36,11 +36,14 @@ I am a passionate B.Tech CS student at GLA University at Mathura, driven by a cu
 
 
 ## 📬 Get in Touch
-<h1 align="center">
-<a href='www.linkedin.com/in/vibhor-agarwal12' target="_blank">Connect with me on LinkedIn</a>
-  <br/>
-<a href='www.instagram.com/vibhragrwl' target="_blank">Connect with me on Instagram</a>
-</h1>
+<div id="badges">
+  <a href="www.linkedin.com/in/vibhor-agarwal12">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="www.instagram.com/vibhragrwl">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
 
 
 
