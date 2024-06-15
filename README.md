@@ -16,7 +16,7 @@ I am a passionate B.Tech CS student at GLA University at Mathura, driven by a cu
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,expressjs,mongodb,materialui,mysql,tailwind,js,html,css,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,expressjs,supabase,prisma,mongodb,materialui,mysql,tailwind,js,html,css,vscode,postman)](https://skillicons.dev)
 
 
 ## 🌱 Currently Exploring
