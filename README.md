@@ -10,8 +10,8 @@ I am a passionate B.Tech CS student at GLA University at Mathura, driven by a cu
 
 
 ## 🚀 About Me
-
-- 🔭 I'm currently working as a Software developer at TCS.
+- 🔭 I'm currently working as a Senior Software developer at Tranfi.
+- 🔭 Worked as a FrontEnd developer at TCS.
 - 🔭 Worked as an Intern at Info Edge
 
 
